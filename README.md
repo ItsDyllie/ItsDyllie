@@ -1,7 +1,11 @@
-# Hi there, I'm Brian Dyllie Kamowa 👋
+<!-- Typing Animation -->
+<h1 align="center">
+  Hi there, I'm Brian Dyllie Kamowa 👋
+</h1>
 
-### Full Stack Developer | Software Developer  
-**Languages and frameworks I love:** JavaScript • TypeScript • Python • PHP • C++ • Node.js • Django
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;Web+Developer;Backend+Engineer;Frontend+Engineer;Database+Architect&center=true&width=500&height=45">
+</h3>
 
 ---
 
@@ -12,7 +16,43 @@
 
 ---
 
-### Tech Stack:
+### Languages:
+- JavaScript
+- TypeScript
+- Python
+- PHP
+- C++
+
+---
+
+### Frameworks & Libraries:
+
+**Frontend Development:**
+- React.js
+- Next.js
+- Vue.js
+
+**Backend Development:**
+- Node.js (Express.js, NestJS)
+- Django (Python)
+- Laravel (PHP)
+
+**Software Engineering Tools:**
+- Electron.js (for desktop apps)
+- Qt (for C++ applications)
+
+---
+
+### Database Systems:
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- Firebase
+
+---
+
+### Tech Stack Badges:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,6 +71,34 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Brian%20Dyllie%20Kamowa-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BrianDyllieKamowa)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265997025085)
 [![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-Brian%20Dyllie%20Kamowa-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BrianDyllieKamowa)
+
+---
+
+### Visitor Counter:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrianDyllieKamowa&label=Profile%20views&color=0e75b6&style=flat" alt="BrianDyllieKamowa" />
+</p>
+
+---
+
+### GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BrianDyllieKamowa&theme=onedark&row=2&column=3" alt="GitHub Trophies" />
+</p>
+
+---
+
+### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianDyllieKamowa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianDyllieKamowa&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+</p>
 
 ---
 
