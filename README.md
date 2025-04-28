@@ -22,7 +22,7 @@
 
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Shoot%20me%20a%20mail-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Shoot%20me%20a%20mail-red?style=for-the-badge&logo=gmail)](mailto: kamowadyllie3@gmail.com)
 
 ---
 > *"Code is not just code, it's the poetry of the future."*
