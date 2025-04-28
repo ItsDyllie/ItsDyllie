@@ -74,32 +74,4 @@
 
 ---
 
-### Visitor Counter:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrianDyllieKamowa&label=Profile%20views&color=0e75b6&style=flat" alt="BrianDyllieKamowa" />
-</p>
-
----
-
-### GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrianDyllieKamowa&theme=onedark&row=2&column=3" alt="GitHub Trophies" />
-</p>
-
----
-
-### GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianDyllieKamowa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-### Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianDyllieKamowa&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
 > *"Code is not just code, it's the poetry of the future."*
