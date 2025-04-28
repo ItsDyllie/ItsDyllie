@@ -1,7 +1,7 @@
-# Hi there, I'm Dyllie 👋
+# Hi there, I'm Brian Dyllie Kamowa 👋
 
 ### Full Stack Developer | Software Developer  
-**Languages and frameworks I Use and Like:** JavaScript • TypeScript • Python • PHP • C++ • Node.js • Django
+**Languages and frameworks I love:** JavaScript • TypeScript • Python • PHP • C++ • Node.js • Django
 
 ---
 
@@ -26,6 +26,11 @@
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Dyllie%20Kamowa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-dyllie-kamowa)
 [![Email](https://img.shields.io/badge/Email-kamowadyllie3@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kamowadyllie3@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Brian%20Dyllie%20Kamowa-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BrianDyllieKamowa)
+[![Instagram](https://img.shields.io/badge/Instagram-Brian%20Dyllie%20Kamowa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brian.dyllie.kamowa)
+[![Telegram](https://img.shields.io/badge/Telegram-Brian%20Dyllie%20Kamowa-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BrianDyllieKamowa)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265997025085)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-Brian%20Dyllie%20Kamowa-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BrianDyllieKamowa)
 
 ---
 
